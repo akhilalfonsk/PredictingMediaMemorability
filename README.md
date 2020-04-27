@@ -1,0 +1,2 @@
+# PredictingMediaMemorability
+Memorability can be defined as how well or poorly a person can recall a video after a specified period of time. This can be good cognitive measure of video quality and hence can find many applications in media platforms like YouTube or Ticktock.In this paper we use some pre-computed video features like C3D features, HMP and video metadata like captions to predict long term and short term memorability values. Also compare the prediction efficiency with some excellently performing models.
